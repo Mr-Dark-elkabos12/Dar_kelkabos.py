@@ -12,7 +12,7 @@ $ pkg install update & pkg install upgrade
 $ pkg install jq
 
 
-$ git clone https://github.com/sadamshr3be/Hack_Instagram
+$ git clone https://github.com/Mr-Dark-elkabos12/Dar_kelkabos.py.git
 
 
 $ cd Hack_Instagram
